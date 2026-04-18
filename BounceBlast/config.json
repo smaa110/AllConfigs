@@ -5,11 +5,13 @@
   "interstitial_enabled": true,
   "rewarded_enabled": false,
   "interstitial_every_n_gameovers": 3,
+  "interstitial_min_seconds_between_shows": 340,
   "max_ad_content_rating": "G",
   "tag_for_child_directed_treatment": true,
   "tag_for_under_age_of_consent": true,
-  "android_banner_ad_unit_id": "",
-  "android_interstitial_ad_unit_id": "",
-  "ios_banner_ad_unit_id": "",
-  "ios_interstitial_ad_unit_id": ""
+  "test_device_ids": [],
+  "android_banner_ad_unit_id": "ca-app-pub-8458169219159103/2262500167",
+  "android_interstitial_ad_unit_id": "ca-app-pub-8458169219159103/1353789358",
+  "ios_banner_ad_unit_id": "ca-app-pub-8458169219159103/8440895701",
+  "ios_interstitial_ad_unit_id": "ca-app-pub-8458169219159103/9362247675"
 }
