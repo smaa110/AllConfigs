@@ -1,0 +1,15 @@
+{
+  "ads_enabled": true,
+  "use_test_ads": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": false,
+  "interstitial_every_n_gameovers": 3,
+  "max_ad_content_rating": "G",
+  "tag_for_child_directed_treatment": true,
+  "tag_for_under_age_of_consent": true,
+  "android_banner_ad_unit_id": "",
+  "android_interstitial_ad_unit_id": "",
+  "ios_banner_ad_unit_id": "",
+  "ios_interstitial_ad_unit_id": ""
+}
