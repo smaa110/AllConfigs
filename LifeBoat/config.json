@@ -1,6 +1,6 @@
 {
-  "ads_enabled": true,
-  "use_test_ads": true,
+  "ads_enabled": false,
+  "use_test_ads": false,
   "banner_enabled": true,
   "interstitial_enabled": true,
   "rewarded_enabled": false,
